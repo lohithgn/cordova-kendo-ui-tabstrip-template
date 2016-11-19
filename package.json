@@ -1,0 +1,21 @@
+{
+  "name": "cordova-kendo-ui-tabstrip-template",
+  "version": "1.0.0",
+  "description": "Cordova template for creating Kendo UI based hybird mobile apps. This is a tabstrip template i.e. app navigation will be done using Tabstrip.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lohithgn/cordova-kendo-ui-tabstrip-template.git"
+  },
+  "homepage": "https://github.com/lohithgn/cordova-kendo-ui-tabstrip-template",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template",
+    "kendo ui"
+  ],
+  "author": "Lohith GN",
+  "license": "Apache-2.0"
+}

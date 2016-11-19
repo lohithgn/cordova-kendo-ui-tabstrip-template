@@ -1,0 +1,6 @@
+{
+    "name": "cordova-kendo-ui-blank-template",
+    "dependencies": {
+    	"kendo-ui-appbuilder-core" : "latest"
+    }
+}
